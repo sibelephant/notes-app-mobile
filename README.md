@@ -5,7 +5,7 @@ A beautiful, feature-rich notes application built with React Native and Expo. Th
 ## Screenshots
 
 <p align="center">
-  <img src="assets/demo/homescreen.png" width="200" alt="Home Screen" />
+  <img src="assets/demo/Home Screen.png" width="200" alt="Home Screen" />
   <img src="assets/demo/Home Screen Empty.png" width="200" alt="Empty State" />
   <img src="assets/demo/Editor.png" width="200" alt="Note Editor" />
   <img src="assets/demo/Searching Note Empty.png" width="200" alt="Search" />
